@@ -1,0 +1,9 @@
+.appointment-form {
+    border-radius: 50px!important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn, .btn:hover {
+    background-image: linear-gradient(to right, #19D3AE, #0FCFEC);
+    color: #FFF;
+}

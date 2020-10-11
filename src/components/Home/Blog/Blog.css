@@ -1,0 +1,9 @@
+.blog .text-gray {
+    color: #B3B2B5;
+}
+
+.blog .single-blog:hover{
+    background-image: linear-gradient(to right, #19D3AE, #0FCFEC);
+    border-radius: 5px;
+    color: #FFF;
+}

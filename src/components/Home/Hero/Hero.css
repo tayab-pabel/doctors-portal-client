@@ -1,0 +1,15 @@
+.hero .row{
+    height: 500px;
+}
+
+.hero .hero-main {
+    width: 400px;
+}
+
+.hero .hero-title {
+    color: #203047;
+}
+
+.hero .hero-description {
+    width: 350px;
+}
