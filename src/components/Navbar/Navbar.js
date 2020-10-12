@@ -11,23 +11,23 @@ const Navbar = () => {
                 </Link>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ml-auto">
-                    <li className="nav-item">
+                    <li className="nav-item active">
                         <Link className="nav-link mr-4" to="/">Home</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link mr-4" to="/">About</Link>
+                        <Link className="nav-link mr-4" to="/login">Login</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link mr-4" to="/">Dental Services</Link>
+                        <Link className="nav-link mr-4" to="/dashboard">Dashboard</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link mr-4" to="/">Reviews</Link>
+                        <Link className="nav-link mr-4" to="/dashboard">Admin</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link mr-4" to="/">Blog</Link>
+                        <Link className="nav-link mr-4" to="#">Blog</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="/">Contact Us</Link>
+                        <Link className="nav-link" to="#">Contact Us</Link>
                     </li>
                     </ul>
                 </div>
